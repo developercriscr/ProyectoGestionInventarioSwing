@@ -1,5 +1,8 @@
 # Sistema de Control de Inventario
 
+## Autor
+Crisly Paola Quirós Delgado
+
 ## Descripción
 
 Aplicación desarrollada en Java Swing para la gestión de inventario.
@@ -28,7 +31,6 @@ Aplicación desarrollada en Java Swing para la gestión de inventario.
 - Sistema operativo Windows, Linux o macOS.
 
 ## Componentes Swing utilizados
-
 - JFrame
 - JPanel
 - JTable
@@ -52,5 +54,6 @@ El proyecto utiliza las siguientes colecciones de Java:
 - HashSet para validar códigos únicos.
 - HashMap para generar las estadísticas por categoría.
 
-## Autor
-Crisly Paola Quirós Delgado
+##Interfaz completa utilizando Swing
+- CRUD COMPLETO
+- insertar, leer, editar, eliminar y buscar
