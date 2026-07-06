@@ -54,6 +54,9 @@ El proyecto utiliza las siguientes colecciones de Java:
 - HashSet para validar códigos únicos.
 - HashMap para generar las estadísticas por categoría.
 
-##Interfaz completa utilizando Swing
+## Interfaz completa utilizando Swing
 - CRUD COMPLETO
 - insertar, leer, editar, eliminar y buscar
+
+## Exporta el archivo con el inevntario
+- En txt
